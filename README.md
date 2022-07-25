@@ -3,7 +3,7 @@
 Profesjonalny starter pack dla serwerów MCBE 😎.
 
 ## Repozytorium
-Repozytorium zawiera wszystkie pliki z okresu MCBE, które udało mi się zebrać - w tym **pluginy różnych serwerów**, **strona nicepe**, **silnik** oraz **PHP**.
+Repozytorium zawiera wszystkie pliki z okresu MCBE, które udało mi się zebrać - w tym **pluginy różnych serwerów**, **strona nicepe**, **silnik** oraz **PHP**, **NUKKIT**.
 
 ## Rozkład plików
 - **0.15x** -> paczki pluginów różnych serwerów na wersję 0.15x
