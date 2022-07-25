@@ -16,3 +16,5 @@ Repozytorium zawiera wszystkie pliki z okresu MCBE, które udało mi się zebra�
 - **bin.zip** -> PHP na wersje 0.15x
 - **PocketMine-MP.phar** -> silnik na wersje 0.15x
 - **start.sh** -> skrypt uruchamiający silnik na wersje 0.15x
+- **BlazePE_Core** -> Nukkit Core Pod Java 11
+- **Bot Discord** -> Bod Discord Z Nagrodą Discord
