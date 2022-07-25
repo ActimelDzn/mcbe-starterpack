@@ -18,3 +18,4 @@ Repozytorium zawiera wszystkie pliki z okresu MCBE, które udało mi się zebra�
 - **start.sh** -> skrypt uruchamiający silnik na wersje 0.15x
 - **BlazePE_Core** -> Nukkit Core Pod Java 11
 - **Bot Discord** -> Bod Discord Z Nagrodą Discord
+- **ItemShop BlazePE** -> ItemShop pod serwer nukkit i blazepe
