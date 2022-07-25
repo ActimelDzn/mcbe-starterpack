@@ -21,3 +21,8 @@ Repozytorium zawiera wszystkie pliki z okresu MCBE, które udało mi się zebra�
 - **ItemShop BlazePE** -> ItemShop pod serwer nukkit i blazepe
 - **EntryHC** -> Nukkit Core Na Wersje 11 Java
 - **BuzzPVP** -> Nukkit Core PvP Na Wersję 11 Java
+- **longPVP** -> PHP Core PvP
+- **XCRAFTBLOCK_KOPIA** -> PHP Core knock
+- **CloudMC** -> PHP Core s+g
+- **WATERPE** -> PHP Core s+g
+- **zapasowe** -> Nukkit Core s+g (lepszy)
