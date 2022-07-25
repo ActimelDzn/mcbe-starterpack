@@ -19,3 +19,5 @@ Repozytorium zawiera wszystkie pliki z okresu MCBE, które udało mi się zebra�
 - **BlazePE_Core** -> Nukkit Core Pod Java 11
 - **Bot Discord** -> Bod Discord Z Nagrodą Discord
 - **ItemShop BlazePE** -> ItemShop pod serwer nukkit i blazepe
+- **EntryHC** -> Nukkit Core Na Wersje 11 Java
+- **BuzzPVP** -> Nukkit Core PvP Na Wersję 11 Java
